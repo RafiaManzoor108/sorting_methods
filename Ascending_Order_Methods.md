@@ -35,7 +35,7 @@ public class HelloWorld
 
 ```
 
-#Sorting Method 2
+## Sorting Method 2
 
 ```
 using System;
